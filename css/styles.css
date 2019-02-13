@@ -13,11 +13,11 @@ h1.topHeading {
   text-align: center;
   font-size: 40px;
 }
-div.stayPut{
+/*div.stayPut{
   position: fixed;
   width: 100%;
 }
-
+*/
 div.pics {
   text-align: center;
 }
@@ -33,14 +33,37 @@ div.menuBar {
   margin-left: 10%;
 
 }
-div.menuB {
+li{
   float: right;
   width: 25%;
   color: orange;
   font-size: 2.0em;
 }
-
+/*div.menuB {
+  float: right;
+  width: 25%;
+  color: orange;
+  font-size: 2.0em;
+}
+*/
 .pagematerial {
   float: none;
   padding-top: 15%;
 }
+
+/*      <div class="menuBar">
+          <div class="menuB">
+            From?
+          </div>
+          <div class="menuB">
+            Food
+          </div>
+          <div class="menuB">
+            Favorite
+          </div>
+          <div class="menuB">
+            Future
+          </div>
+      </div>
+    </div>
+    */
