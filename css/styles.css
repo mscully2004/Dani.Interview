@@ -9,7 +9,6 @@ body  {
 
 h1.topHeading {
   font-family: 'Comfortaa', cursive;
-  color: rgb(109, 29, 117);
   margin: 0;
   padding: 0;
   padding-top: 5%;
@@ -41,6 +40,7 @@ h2 {
 p {
   font-size: 1.75em;
   text-align: center;
+  color: rgb(255, 76, 0);
 }
 div.menuBar {
   height: 25px;
